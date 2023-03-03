@@ -1,1 +1,1 @@
-# TurnCard
+# jq-cards-game
